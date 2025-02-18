@@ -80,31 +80,6 @@ This schema design enables efficient data retrieval for business intelligence re
 
 ## Recommendations
 
-### 1. **Seasonal Promotions & Discounts**
-- **Diwali & Holi Focus:** Since these occasions drive major revenue, consider launching early-bird discounts, festive bundles, and exclusive product lines.
-- **Targeted Campaigns:** Offer customized promotions to loyal customers during these festivals.
-
-### 2. **Product Strategy Enhancement**
-- **Boost High-Selling Categories:**
-  - Expand inventory for **Colors, Soft Toys, and Sweets** during Holi and Diwali.
-  - Ensure sufficient stock for high-demand products like the **Dessert Box and Quia Gift**.
-
-- **Improve Sales for Low-Performing Categories:**
-  - Introduce combo offers for **Plants and Mugs** to increase their appeal.
-
-### 3. **Marketing and Customer Engagement**
-- **City-Specific Promotions:**
-  - Focus on top-performing metro cities with localized digital marketing campaigns.
-  - Provide special delivery offers for repeat customers in these cities.
-
-- **Peak Hour Optimization:**
-  - Given that most orders come between **10 AM - 9 PM**, optimize website performance and customer support during these hours.
-  
-### 4. **Operational Improvements**
-- **Reduce Delivery Time:**
-  - Explore **faster shipping options** to bring down the average **delivery time from 5.53 days** to enhance customer satisfaction.
-
-- **Warehouse Management:**
-  - Increase inventory levels before Diwali and Holi to avoid last-minute supply chain issues.
+please check finial report
 
 
