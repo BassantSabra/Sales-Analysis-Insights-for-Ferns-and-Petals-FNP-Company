@@ -1,4 +1,4 @@
-# README - Sales Analysis Insights for Ferns and Petals (FNP)
+ Sales Analysis Insights for Ferns and Petals (FNP)
 
 ## Overview
 This document provides insights derived from the sales analysis dashboard of Ferns and Petals (FNP). The data highlights key trends in revenue, order distribution, and product performance. The analysis is based on the provided dashboard, focusing on total revenue, order trends, customer spending, and sales distribution.
