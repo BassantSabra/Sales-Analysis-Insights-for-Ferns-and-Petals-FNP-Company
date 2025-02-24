@@ -3,7 +3,8 @@
 ## Overview
 This document provides insights derived from the sales analysis dashboard of Ferns and Petals (FNP). The data highlights key trends in revenue, order distribution, and product performance. The analysis is based on the provided dashboard, focusing on total revenue, order trends, customer spending, and sales distribution.
 
-![Screenshot 2025-02-18 021256](https://github.com/user-attachments/assets/22bd11a3-248f-4e4e-a291-e98bf509e3b3)
+
+![Screenshot 2025-02-24 035717](https://github.com/user-attachments/assets/fa114a52-f8f5-44d5-95f7-728142fc29d5)
 
 ---
 
